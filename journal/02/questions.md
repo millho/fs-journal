@@ -54,15 +54,15 @@
 
 06. Give an example of a JavaScript `Conditional`:
 
-    > | ANSWER HERE |
+    > if, else
 
 07. What is the main difference between `parameters` and `arguments`?
 
-    > | ANSWER HERE |
+    > arguments area passed between functions
 
 08. Instead of writing everything to the console, what is a better way to debug your code?
 
-    > | ANSWER HERE 
+    > use debugger tool
 
 09. What is the difference between a `primitive` value and a `reference` value?
 
