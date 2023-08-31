@@ -2,5 +2,5 @@
 
 * **[Trivia](https://github.com/millho/trivia)**
 * **[Gregslist](https://github.com/millho/gregslistASYNC)**
-* **[Repo](https://github.com/millho/<ASSIGNMENT_REPO>)**
+* **[Pokedex](https://github.com/millho/pokedex)**
 * **[Repo](https://github.com/millho/<ASSIGNMENT_REPO>)**
