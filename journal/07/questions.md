@@ -2,36 +2,36 @@
 
 1. Describe the two ways to bind Data in Vue?
 
-  > | ANSWER HERE |
+  > v-model v-for
 
 2. The `SPA` acronym stands for what?
 
-  > | ANSWER HERE |
+  > Single page applications
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > | ANSWER HERE |
+  > less data to load
 
 4. What does the `onMounted` method in Vue do?
 
-  > | ANSWER HERE |
+  > when the page loads, run functions
 
 5. What is the `v-model` attribute in Vue for, and when might you use it?
 
-  > | ANSWER HERE |
+  > creating forms with specific input values -> properties for an object
 
 6. What is the package.json file used for?
 
-  > | ANSWER HERE |
+  > 
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
-  > | ANSWER HERE |
+  > v-if, v-else
 
 8. What is the purpose of the `key` attribute when using `v-for` on an element?
 
-  > | ANSWER HERE |
+  > unique indetifiers to look for in each object
 
 9. What is the `<slot>` element and what is it used for?
 
-  > | ANSWER HERE |
+  > injecting html into a modal template
